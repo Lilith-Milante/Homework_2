@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task3Absense/1.0.0": {
+        "runtime": {
+          "Task3Absense.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task3Absense/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task2RandomNum\obj\Debug\net6.0\Task2RandomNum.csproj.AssemblyReference.cache
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task2RandomNum\obj\Debug\net6.0\Task2RandomNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task2RandomNum\obj\Debug\net6.0\Task2RandomNum.AssemblyInfoInputs.cache
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task2RandomNum\obj\Debug\net6.0\Task2RandomNum.AssemblyInfo.cs
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task2RandomNum\obj\Debug\net6.0\Task2RandomNum.csproj.CoreCompileInputs.cache
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task2RandomNum\bin\Debug\net6.0\Task2RandomNum.exe
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task2RandomNum\bin\Debug\net6.0\Task2RandomNum.deps.json
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task2RandomNum\bin\Debug\net6.0\Task2RandomNum.runtimeconfig.json
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task2RandomNum\bin\Debug\net6.0\Task2RandomNum.dll
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task2RandomNum\bin\Debug\net6.0\Task2RandomNum.pdb
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task2RandomNum\obj\Debug\net6.0\Task2RandomNum.dll
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task2RandomNum\obj\Debug\net6.0\refint\Task2RandomNum.dll
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task2RandomNum\obj\Debug\net6.0\Task2RandomNum.pdb
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task2RandomNum\obj\Debug\net6.0\Task2RandomNum.genruntimeconfig.cache
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task2RandomNum\obj\Debug\net6.0\ref\Task2RandomNum.dll

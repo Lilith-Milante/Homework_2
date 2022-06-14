@@ -1,0 +1,15 @@
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task1ThirdN\obj\Debug\net6.0\Task1ThirdN.csproj.AssemblyReference.cache
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task1ThirdN\obj\Debug\net6.0\Task1ThirdN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task1ThirdN\obj\Debug\net6.0\Task1ThirdN.AssemblyInfoInputs.cache
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task1ThirdN\obj\Debug\net6.0\Task1ThirdN.AssemblyInfo.cs
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task1ThirdN\obj\Debug\net6.0\Task1ThirdN.csproj.CoreCompileInputs.cache
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task1ThirdN\bin\Debug\net6.0\Task1ThirdN.exe
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task1ThirdN\bin\Debug\net6.0\Task1ThirdN.deps.json
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task1ThirdN\bin\Debug\net6.0\Task1ThirdN.runtimeconfig.json
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task1ThirdN\bin\Debug\net6.0\Task1ThirdN.dll
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task1ThirdN\bin\Debug\net6.0\Task1ThirdN.pdb
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task1ThirdN\obj\Debug\net6.0\Task1ThirdN.dll
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task1ThirdN\obj\Debug\net6.0\refint\Task1ThirdN.dll
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task1ThirdN\obj\Debug\net6.0\Task1ThirdN.pdb
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task1ThirdN\obj\Debug\net6.0\Task1ThirdN.genruntimeconfig.cache
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\Homework\HW_2\Task1ThirdN\obj\Debug\net6.0\ref\Task1ThirdN.dll
